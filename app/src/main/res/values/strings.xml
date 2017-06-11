@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListViewUygulamasi</string>
+    <string-array name="ulkeler">
+        <item>Türkiye</item>
+        <item>ABD</item>
+    </string-array>
+</resources>
